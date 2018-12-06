@@ -1,5 +1,5 @@
-# Algalon
-The GitHub Repository for Algalon - x4 Rate realm.
+# Omni-WoW
+The GitHub Repository for Omni-WoW 3.3.5a Private Server
 
 * [Info](https://github.com/Omni-WoW/Algalon/wiki/Info)
 * [How to Report an Issue](https://github.com/Omni-WoW/Algalon/wiki/How-to-Report-an-Issue)
